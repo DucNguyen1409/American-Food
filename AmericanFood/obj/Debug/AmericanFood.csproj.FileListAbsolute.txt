@@ -1,0 +1,13 @@
+E:\Project --winformC#\AmericanFood\AmericanFood\bin\Debug\AmericanFood.exe.config
+E:\Project --winformC#\AmericanFood\AmericanFood\bin\Debug\AmericanFood.exe
+E:\Project --winformC#\AmericanFood\AmericanFood\bin\Debug\AmericanFood.pdb
+E:\Project --winformC#\AmericanFood\AmericanFood\obj\Debug\AmericanFood.csprojResolveAssemblyReference.cache
+E:\Project --winformC#\AmericanFood\AmericanFood\obj\Debug\AmericanFood.FormBaoCao.resources
+E:\Project --winformC#\AmericanFood\AmericanFood\obj\Debug\AmericanFood.FormChonBan.resources
+E:\Project --winformC#\AmericanFood\AmericanFood\obj\Debug\AmericanFood.FormChonMonAn.resources
+E:\Project --winformC#\AmericanFood\AmericanFood\obj\Debug\AmericanFood.FormDangNhap.resources
+E:\Project --winformC#\AmericanFood\AmericanFood\obj\Debug\AmericanFood.FormGiaoDien.resources
+E:\Project --winformC#\AmericanFood\AmericanFood\obj\Debug\AmericanFood.Properties.Resources.resources
+E:\Project --winformC#\AmericanFood\AmericanFood\obj\Debug\AmericanFood.csproj.GenerateResource.Cache
+E:\Project --winformC#\AmericanFood\AmericanFood\obj\Debug\AmericanFood.exe
+E:\Project --winformC#\AmericanFood\AmericanFood\obj\Debug\AmericanFood.pdb
