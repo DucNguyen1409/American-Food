@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace AmericanFood
 {
-    public partial class FormGiaoDien : Form
+    public partial class FormDoiMatKhau : Form
     {
-        public FormGiaoDien()
+        public FormDoiMatKhau()
         {
             InitializeComponent();
         }

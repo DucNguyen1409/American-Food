@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace AmericanFood
 {
-    public partial class FormBaoCao : Form
+    public partial class FormAdmin : Form
     {
-        public FormBaoCao()
+        public FormAdmin()
         {
             InitializeComponent();
         }
@@ -21,9 +21,15 @@ namespace AmericanFood
         {
 
             this.reportViewer1.RefreshReport();
+            this.reportViewer1.RefreshReport();
         }
 
         private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
         {
 
         }

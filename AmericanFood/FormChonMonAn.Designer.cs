@@ -45,6 +45,7 @@
             this.btnDiToi = new System.Windows.Forms.Button();
             this.btnTroLai = new System.Windows.Forms.Button();
             this.panel2 = new System.Windows.Forms.Panel();
+            this.btnTraMon = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.btnXacNhan = new System.Windows.Forms.Button();
             this.btnHuy = new System.Windows.Forms.Button();
@@ -79,7 +80,6 @@
             this.btnMon2 = new System.Windows.Forms.Button();
             this.btnMon1 = new System.Windows.Forms.Button();
             this.listView1 = new System.Windows.Forms.ListView();
-            this.btnTraMon = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.panel4.SuspendLayout();
             this.panel2.SuspendLayout();
@@ -253,6 +253,16 @@
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(282, 746);
             this.panel2.TabIndex = 1;
+            // 
+            // btnTraMon
+            // 
+            this.btnTraMon.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnTraMon.Location = new System.Drawing.Point(145, 542);
+            this.btnTraMon.Name = "btnTraMon";
+            this.btnTraMon.Size = new System.Drawing.Size(125, 91);
+            this.btnTraMon.TabIndex = 14;
+            this.btnTraMon.Text = "Trả Món";
+            this.btnTraMon.UseVisualStyleBackColor = true;
             // 
             // button1
             // 
@@ -606,21 +616,13 @@
             this.listView1.Size = new System.Drawing.Size(735, 400);
             this.listView1.TabIndex = 3;
             this.listView1.UseCompatibleStateImageBehavior = false;
-            // 
-            // btnTraMon
-            // 
-            this.btnTraMon.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnTraMon.Location = new System.Drawing.Point(145, 542);
-            this.btnTraMon.Name = "btnTraMon";
-            this.btnTraMon.Size = new System.Drawing.Size(125, 91);
-            this.btnTraMon.TabIndex = 14;
-            this.btnTraMon.Text = "Trả Món";
-            this.btnTraMon.UseVisualStyleBackColor = true;
+            this.listView1.View = System.Windows.Forms.View.Details;
             // 
             // FormChonMonAn
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.ButtonFace;
             this.ClientSize = new System.Drawing.Size(1264, 749);
             this.Controls.Add(this.listView1);
             this.Controls.Add(this.panel3);
